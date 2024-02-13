@@ -1,4 +1,4 @@
-### Google Search Application 
+## Google-Search-Application 
 
 #### `Landing Page`
 ![img](https://github.com/gurusharan-gs/google-search-application/blob/main/google-search-app/bannar/b1.png)
@@ -6,7 +6,7 @@
 #### `Search Page`
 ![img](https://github.com/gurusharan-gs/google-search-application/blob/main/google-search-app/bannar/b2.png)
 <br/>
-#### `Photos Page`
+#### `Images Page`
 ![img](https://github.com/gurusharan-gs/google-search-application/blob/main/google-search-app/bannar/b3.png)
 <br/>
 #### `Videos Page`
