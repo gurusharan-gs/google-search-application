@@ -1,7 +1,7 @@
 ### Google Search Application 
 
 #### `Landing Page`
-![img](https://github.com/rahulbnc463/Team_DNA/blob/main/google-search-app/bannar/b1.png)
+![img](https://github.com/google-search-app/bannar/b1.png)
 <br/>
 #### `Search Page`
 ![img](https://github.com/rahulbnc463/Team_DNA/blob/main/google-search-app/bannar/b2.png)
